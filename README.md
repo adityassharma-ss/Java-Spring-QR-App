@@ -1,4 +1,4 @@
-# spring-qr-app
+# Spring-QR-Generator
 
 This is a simple java-Spring QRCode generator app.
 If you want to launch it in your System then just run the code on your localhost after installing Maeven dependencies.
